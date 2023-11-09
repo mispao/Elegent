@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\cn",
+    "\\app\\src\\main\\java\\cn\\itcast",
+    "\\app\\src\\main\\res"
+  ],
+  "SelectedNode": "\\app\\src\\main\\AndroidManifest.xml",
+  "PreviewInSolutionExplorer": false
+}
